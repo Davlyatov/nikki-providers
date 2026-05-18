@@ -1,5 +1,10 @@
 payload:
   -DOMAIN-KEYWORD,valorant
+  -DOMAIN-SUFFIX,rockstargames.com
+  -DOMAIN-SUFFIX,socialclub.rockstargames.com
+  -DOMAIN-SUFFIX,rsg.sc
+  -DOMAIN-SUFFIX,rockstarnorth.com
+  -DOMAIN-KEYWORD,rockstar
   -GEOIP,RU,no-resolve
   -DOMAIN-SUFFIX,riotgames.com
   -DOMAIN-SUFFIX,pvp.net
