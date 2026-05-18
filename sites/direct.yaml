@@ -1,4 +1,7 @@
 payload:
+  -DOMAIN-KEYWORD,valorant
+  -GEOIP,RU,no-resolve
+  -GEOSITE,category-ads-all
   -DOMAIN-SUFFIX,riotgames.com
   -DOMAIN-SUFFIX,pvp.net
   -DOMAIN-SUFFIX,riotcdn.net
